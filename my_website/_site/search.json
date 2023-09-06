@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "dgsgds\n\n\n\n\n\nAbout this site!!!\ntest\n\nThis is an example of a bulleted list with math\nHere is an in-line math equation \\(f(x)=\\frac{e^{x^2}}{2}\\)\n\n\n\n\nList One\n\nItem A\nItem B\nItem C\n\n\n\nList Two\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\\[g(x)=x^n \\rightarrow \\frac{\\partial g}{\\partial x}=n x^{n-1}\\]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
